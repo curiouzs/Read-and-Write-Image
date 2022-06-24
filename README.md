@@ -47,15 +47,19 @@ cv2.waitKey(0)
 ```
 ## Output:
 ### i) Read and display the image
-![lo](https://user-images.githubusercontent.com/75234646/160963899-b018b18c-a703-45df-8c54-54c5d92b5603.png)
+<img width="850" height ="400" src = "https://user-images.githubusercontent.com/75234646/160963899-b018b18c-a703-45df-8c54-54c5d92b5603.png">
+
 ### ii)Write the image
-![ws](https://user-images.githubusercontent.com/75234646/160963802-823ae2db-c72a-4ee3-9c39-a3bba4185f0b.png)
+<img width="850" height ="400" src = "https://user-images.githubusercontent.com/75234646/160963802-823ae2db-c72a-4ee3-9c39-a3bba4185f0b.png">
+
 ### iii)Shape of the Image
-![ws](https://user-images.githubusercontent.com/75234646/160963825-3b3b1954-8992-43d1-93b1-5098efc24282.png)
+<img width="850" height ="400" src = "https://user-images.githubusercontent.com/75234646/160963825-3b3b1954-8992-43d1-93b1-5098efc24282.png">
+
 ### iv)Access rows and columns
-![ar](https://user-images.githubusercontent.com/75234646/160964015-4bb95a46-656a-4095-b3fa-54429582d673.png)
+<img width="850" height ="400" src = "https://user-images.githubusercontent.com/75234646/160964015-4bb95a46-656a-4095-b3fa-54429582d673.png">
+
 ### v)Cut and paste portion of image
-![cp](https://user-images.githubusercontent.com/75234646/160964055-55ce357a-5c93-4e48-bd18-aea11ec0b87a.png = 100x100)
+<img width="850" height ="400" src = "https://user-images.githubusercontent.com/75234646/160964055-55ce357a-5c93-4e48-bd18-aea11ec0b87a.png">
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
