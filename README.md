@@ -55,7 +55,7 @@ cv2.waitKey(0)
 ### iv)Access rows and columns
 ![ar](https://user-images.githubusercontent.com/75234646/160964015-4bb95a46-656a-4095-b3fa-54429582d673.png)
 ### v)Cut and paste portion of image
-![cp](https://user-images.githubusercontent.com/75234646/160964055-55ce357a-5c93-4e48-bd18-aea11ec0b87a.png)
+![cp](https://user-images.githubusercontent.com/75234646/160964055-55ce357a-5c93-4e48-bd18-aea11ec0b87a.png = 100x100)
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
