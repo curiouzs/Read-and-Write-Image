@@ -38,9 +38,7 @@ for i in range(100):
         bw[i][j]=[random.randint(0,255),random.randint(0,255),random.randint(0,255)]
 cv2.imshow('accessing row and column',bw)
 cv2.waitKey(0)
-
 # To cut and paste portion of image
-
 bw2=cv2.imread("and.jpeg",1)
 tag=bw2[890:990,900:1000]
 bw2[800:900,1000:1100]=tag
